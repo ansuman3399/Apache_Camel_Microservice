@@ -1,0 +1,10 @@
+two threads one to print odd another even
+
+rehashing
+externalization
+how to skip some classes in some env
+thread pool
+desrialization
+
+
+cogni-- https://talview.page.link/xHwXAkZPg5LxZ1qF8
